@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/jawer/static/css/main.57dfb6f3.chunk.css",
+    "main.js": "/jawer/static/js/main.afe18bc3.chunk.js",
+    "main.js.map": "/jawer/static/js/main.afe18bc3.chunk.js.map",
+    "runtime-main.js": "/jawer/static/js/runtime-main.7bc3e245.js",
+    "runtime-main.js.map": "/jawer/static/js/runtime-main.7bc3e245.js.map",
+    "static/js/2.5856c91e.chunk.js": "/jawer/static/js/2.5856c91e.chunk.js",
+    "static/js/2.5856c91e.chunk.js.map": "/jawer/static/js/2.5856c91e.chunk.js.map",
+    "index.html": "/jawer/index.html",
+    "static/css/main.57dfb6f3.chunk.css.map": "/jawer/static/css/main.57dfb6f3.chunk.css.map",
+    "static/js/2.5856c91e.chunk.js.LICENSE.txt": "/jawer/static/js/2.5856c91e.chunk.js.LICENSE.txt",
+    "static/media/logo-jawer.2c0dd59e.jpg": "/jawer/static/media/logo-jawer.2c0dd59e.jpg",
+    "static/media/logo-real.20b9a5cc.png": "/jawer/static/media/logo-real.20b9a5cc.png",
+    "static/media/testcase.186ce8d1.png": "/jawer/static/media/testcase.186ce8d1.png",
+    "static/media/ui.b9363ff5.png": "/jawer/static/media/ui.b9363ff5.png",
+    "static/media/uml.c6ec432e.png": "/jawer/static/media/uml.c6ec432e.png",
+    "static/media/web.b0bfda2d.png": "/jawer/static/media/web.b0bfda2d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7bc3e245.js",
+    "static/js/2.5856c91e.chunk.js",
+    "static/css/main.57dfb6f3.chunk.css",
+    "static/js/main.afe18bc3.chunk.js"
+  ]
+}
