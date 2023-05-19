@@ -1,6 +1,6 @@
 import React from 'react';
 import './about.css';
-import Logo from '../../assets/logo-jokianku.png';
+import Logo from '../../assets/logo-jawer.jpg';
 
 const About = () => {
     return (
@@ -18,7 +18,7 @@ const About = () => {
                 <div className="about__content">
 
                     <p>
-                        Jokian.ku adalah suatu usaha karya anak bangsa untuk menampung kelah kesuh siswa atau mahasiswa yang kesulitan dalam pengerjaan tugas-tugasnya. Jokian.ku dapat melayani jokian berupa pembuatan website, pembuatan pemodelan <i>Unified Modelling Language</i> (UML) seperti diagram Usecase, diagram Activity, diagram Sequence, dan diagram Class, pembuatan <i>Mockup User Interface</i> (UI) menggunakan Figma atau Adobe XD, dan dokumen Test Case (Pengujian Blackbox).
+                        Jawer.id adalah suatu usaha karya anak bangsa untuk menampung kelah kesuh siswa atau mahasiswa yang kesulitan dalam pengerjaan tugas-tugasnya. Jokian.ku dapat melayani jokian berupa pembuatan website, pembuatan pemodelan <i>Unified Modelling Language</i> (UML) seperti diagram Usecase, diagram Activity, diagram Sequence, dan diagram Class, pembuatan <i>Mockup User Interface</i> (UI) menggunakan Figma atau Adobe XD, dan dokumen Test Case (Pengujian Blackbox).
                     </p>
 
                     <a href='#contact' className='btn btn-primary'>Kontak Kami</a>

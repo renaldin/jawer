@@ -10,25 +10,25 @@ const data = [
         id: 1,
         image: IMG1,
         title: 'Pembuatan Website',
-        instagram: 'https://instagram.com/jokian.ku'
+        instagram: 'https://wa.link/pe547g'
     },
     {
         id: 2,
         image: IMG2,
         title: 'Dokumen Test Case (Pengujian Blackbox)',
-        instagram: 'https://instagram.com/jokian.ku'
+        instagram: 'https://wa.link/pe547g'
     },
     {
         id: 3,
         image: IMG3,
         title: 'Pembuatan Pemodelan UML (Diagram Usecase, Activity, Sequence, dan Class)',
-        instagram: 'https://instagram.com/jokian.ku'
+        instagram: 'https://wa.link/pe547g'
     },
     {
         id: 4,
         image: IMG4,
         title: 'Pembuatan Mockup User Interface (UI) Menggunakan Figma atau Adobe XD',
-        instagram: 'https://instagram.com/jokian.ku'
+        instagram: 'https://wa.link/pe547g'
     },
 ];
 
@@ -49,7 +49,7 @@ const Portfolio = () => {
                                 <center>
                                     <h3>{title}</h3>
                                     <div className="portfolio__item-cta">
-                                        <a href={instagram} className='btn btn-primary' target='_blank'>Jokian.ku</a>
+                                        <a href={instagram} className='btn btn-primary' target='_blank'>Whatsapp</a>
                                     </div>
                                 </center>
                             </article>

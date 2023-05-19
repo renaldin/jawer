@@ -34,16 +34,10 @@ const Contact = () => {
                     <a href="mailto:panjangkalijoki@gmail.com" target='_blank'>Kirim Pesan</a>
                 </article>
                 <article className="contact__option">
-                    <FiInstagram className='contact__option-icon' />
-                    <h4>Instagram</h4>
-                    <h5>@jokian.ku</h5>
-                    <a href="https://instagram.com/jokian.ku" target='_blank'>Kirim Pesan</a>
-                </article>
-                <article className="contact__option">
                     <BsWhatsapp className='contact__option-icon' />
                     <h4>Whatsapp</h4>
                     <h5>+62 851 7406 0934</h5>
-                    <a href="https://wa.link/8d5qxv" className='a-contact' target='_blank'>Kirim Pesan</a>
+                    <a href="https://wa.link/pe547g" className='a-contact' target='_blank'>Kirim Pesan</a>
                 </article>
             </div>
         </section>
